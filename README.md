@@ -15,4 +15,4 @@ This project analyzes Adani Power financial data including P&L statement and bal
 - DAX
 
 ## Author
-Ayushman Pattanaik
+Ayushman Pattanaik   roll no- 2305850  BRANCH - CSE
