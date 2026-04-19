@@ -14,8 +14,5 @@ This project analyzes Adani Power financial data including P&L statement and bal
 - Excel
 - DAX
 
-## Screenshots
-(Add dashboard images)
-
 ## Author
 Ayushman Pattanaik
